@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "article-parser": "^4.2.7"
+    "article-parser": "^4.2.8"
   }
 }
